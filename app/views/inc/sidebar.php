@@ -1,3 +1,4 @@
+<h2>WSD UMS</h2>
 <ul>
             <li><a href="dashboard.php">Home</a></li>
             <li><a href="<?php echo URLROOT."/profile"; ?>">Update Information</a></li>

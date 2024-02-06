@@ -91,3 +91,9 @@ th {
     background-color: #333;
     color: #fff;
 }
+
+
+.userlist{
+    height: 100vh;
+    overflow-y: smooth;
+}

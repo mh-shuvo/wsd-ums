@@ -9,14 +9,14 @@ define('AUTH_TOKEN_KEY','CURRENT_USER');
 
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASSWORD','');
+define('DB_PASSWORD','Mehedi@2020');
 define('DB_NAME','wsd_users');
 
 //App Root
 define("APPROOT",dirname(dirname(__FILE__)));
 //URL Root
 
-define("URLROOT","http://localhost/wsd_ums");
+define("URLROOT","http://localhost/Others/wsd_ums");
 
 //Site Name
 define("SITENAME","WSD UMS");

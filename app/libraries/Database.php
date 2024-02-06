@@ -27,6 +27,7 @@
         }catch(PDOException $e){
             $this->error = $e->getmessage();
             echo $this->error;
+            exit;
         }
     }
 

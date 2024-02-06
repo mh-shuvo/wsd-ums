@@ -2,7 +2,6 @@
 <?php Handler::setPageTitle("Home");?>
 <div class="container">
     <div class="sidebar">
-        <h2>Dashboard</h2>
         <?php Handler::include("inc.sidebar");?>
     </div>
 
