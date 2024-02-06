@@ -16,7 +16,7 @@ This is a simple User Management System developed using PHP 8 and MySQL 8.
         - `DB_USER`: Database username.
         - `DB_PASSWORD`: Database password.
         - `DB_NAME`: Database name.
-        - `URLROOT`: Base URL of your application (e.g., `http://localhost/Others/wsd_ums`).
+        - `URLROOT`: Base URL of your application (e.g., `http://localhost/wsd_ums`).
     - Save the file.
 
 3. **Update .htaccess File**:
