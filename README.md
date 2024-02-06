@@ -6,7 +6,7 @@ This is a simple User Management System developed using PHP 8 and MySQL 8.
 
 1. **Clone the repository**: 
     ```
-    git clone https://github.com/your-username/wsd_ums.git
+   https://github.com/mh-shuvo/wsd_ums.git
     ```
 
 2. **Update Configuration**:
